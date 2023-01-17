@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao meu perfil, sou o Jorge Alberto Sussenbach Junior e estou iniciando na área de programação.
+## Sou o Jorge Alberto Sussenbach Junior e seja bem vindo(a) ao meu perfil!
 
  <div>
    <a href="https://github.com/jucaju09">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jucaju09&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jucaju09&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jucaju09&layout=compact&langs_count=6&theme=merko"/>
 
 </div>
