@@ -1,4 +1,4 @@
-## Sou o Jorge Alberto Sussenbach Junior e seja bem vindo(a) ao meu perfil!
+## Sou o Jorge Junior e seja bem vindo(a) ao meu perfil!
 
  <div>
    <a href="https://github.com/jucaju09">
